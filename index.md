@@ -29,7 +29,9 @@ I enjoy writing code in [python](python.org):
 - [x] Quoting code
 - [x] External Links
 - [x] Section links
-- [x] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] [Relative links to screenshot](screenshots) (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists
 - [x] Task lists
+
+
 
